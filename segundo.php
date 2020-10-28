@@ -1,5 +1,5 @@
 <?
 
-	echo "Testanto segundo git"
+	echo "Testanto segundo commit"
 
 ?>
